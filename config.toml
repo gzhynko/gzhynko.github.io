@@ -23,5 +23,4 @@ highlight_code = true
 links = [
     { title = "Github", href = "https://github.com/gzhynko" },
     { title = "LinkedIn", href = "https://www.linkedin.com/in/gzhynko/" },
-    { title = "Resume", href = "resume" }
 ]
