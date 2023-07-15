@@ -1,2 +1,2 @@
-# site
-My personal website/blog made with Zola
+# gzhynko.github.io
+My personal website/blog made with Zola.
