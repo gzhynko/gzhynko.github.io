@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>gzhynko&#x27;s site</title>
+    <link href="https://gzhynko.com/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://gzhynko.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-14T00:00:00+00:00</updated>
+    <id>https://gzhynko.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hello world!</title>
+        <published>2023-07-14T00:00:00+00:00</published>
+        <updated>2023-07-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://gzhynko.com/blog/hello-world/" type="text/html"/>
+        <id>https://gzhynko.com/blog/hello-world/</id>
+        
+        <content type="html">&lt;p&gt;Hey there! I&#x27;m probably not going to be using this a lot, but it&#x27;s still 
+nice to have a place to write about different stuff I&#x27;m up to.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
