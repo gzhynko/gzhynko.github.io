@@ -1,7 +1,5 @@
-title = "gzhynko's site"
-
 # The URL the site will be built for
-base_url = "https://gzhynko.com"
+base_url = "https://inputusername.github.io/zola-hook/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -9,19 +7,21 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-generate_feed = true
-theme = "hook"
+title = "Hook"
+description = "Hook is a theme for Zola"
 
 [markdown]
+
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "agola-dark"
 
 [extra]
 # Put all your custom variables here
 
 links = [
-    { title = "Mail", href = "mailto:me@gzhynko.com" },
-    { title = "GitHub", href = "https://github.com/gzhynko" },
-    { title = "LinkedIn", href = "https://www.linkedin.com/in/gzhynko/" },
+    { title = "Mail", href = "mailto:example@example.com" },
+    { title = "GitHub", href = "https://github.com" },
+    { title = "LinkedIn", href = "https://linkedin.com" }
 ]
